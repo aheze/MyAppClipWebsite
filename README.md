@@ -1,5 +1,5 @@
 # AppClipQuickStart
-Instructions on how to make an app clip.
+Instructions on how to make an app clip. 
 
 1. Add a new target
 
